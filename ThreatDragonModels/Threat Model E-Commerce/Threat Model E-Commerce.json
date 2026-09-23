@@ -18,10 +18,11 @@
         "placeholder": "New STRIDE diagram description",
         "thumbnail": "./public/content/images/thumbnail.stride.jpg",
         "version": "2.6.2",
-        "cells": []
+        "cells": [],
+        "description": "Startup mengembangkan aplikasi manajemen toko online dengan aktor: Customer (daftar, login, pesan, bayar), Admin (kelola produk), Payment Gateway (Midtrans/Xendit). Komponen: React Frontend, Node.js REST API, MySQL DB, Redis Cache, Email Service."
       }
     ],
-    "diagramTop": 1,
+    "diagramTop": 3,
     "reviewer": "April Rustiant0, M.Kom",
     "threatTop": 0
   }
