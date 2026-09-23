@@ -1,0 +1,18 @@
+{
+  "version": "2.6.2",
+  "release_version": "",
+  "released_at": "2026-09-23",
+  "summary": {
+    "title": "Threat Model Aplikasi Pemesanan Online (E-Commerce)",
+    "owner": "BBS",
+    "description": "Threat modeling berbasis STRIDE dan OWASP ASVS untuk sistem e-commerce microservices (React, API Gateway, Auth, Order, Postgres, Payment Gateway).",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "April Rustiant0, M.Kom",
+    "threatTop": 0
+  }
+}
