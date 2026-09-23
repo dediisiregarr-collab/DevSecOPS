@@ -10,8 +10,19 @@
   },
   "detail": {
     "contributors": [],
-    "diagrams": [],
-    "diagramTop": 0,
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "New STRIDE diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": [],
+        "description": "Threat modeling berbasis STRIDE dan OWASP ASVS untuk sistem e-commerce microservices (React, API Gateway, Auth, Order, Postgres, Payment Gateway)."
+      }
+    ],
+    "diagramTop": 1,
     "reviewer": "April Rustiant0, M.Kom",
     "threatTop": 0
   }
